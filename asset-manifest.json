@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/terrance-smith/static/css/main.5bf06cf8.css",
+    "main.js": "/terrance-smith/static/js/main.1eb43f3a.js",
+    "static/media/sellout.png": "/terrance-smith/static/media/sellout.a1de48d9d1682c1fee77.png",
+    "static/media/amsterdam.jpg": "/terrance-smith/static/media/amsterdam.648d3967dd98f6e50156.jpg",
+    "static/media/melumimg.png": "/terrance-smith/static/media/melumimg.b5a7f9f5230adac9aede.png",
+    "static/media/charlotte.jpeg": "/terrance-smith/static/media/charlotte.00472a6273ac9cf58355.jpeg",
+    "static/media/moviesearch.png": "/terrance-smith/static/media/moviesearch.c43aff30fe6159670c68.png",
+    "static/media/office3.jpeg": "/terrance-smith/static/media/office3.18d5073f38020c3a34bd.jpeg",
+    "static/media/office2.jpeg": "/terrance-smith/static/media/office2.cc3be5cafc5117678f11.jpeg",
+    "index.html": "/terrance-smith/index.html",
+    "main.5bf06cf8.css.map": "/terrance-smith/static/css/main.5bf06cf8.css.map",
+    "main.1eb43f3a.js.map": "/terrance-smith/static/js/main.1eb43f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf06cf8.css",
+    "static/js/main.1eb43f3a.js"
+  ]
+}
