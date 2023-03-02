@@ -10,7 +10,7 @@
 
 .about .left {
     text-align: center;
-    margin: auto;
+    margin: 10px;
     padding: 1rem;
     max-width: 350px;
 }
@@ -24,7 +24,7 @@
 }
 
 .right .img-container {
-    display: grid;
+    /* display: grid; */
     grid-template-columns: repeat(12, 1fr);
     position: relative;
     align-items: center;
@@ -32,16 +32,16 @@
 }
 
 .right .img {
-    max-width: 90%;
+    max-width: 70%;
     border: 1px solid #333;
 }
 
-.right .top {
+/* .right .top {
     grid-column: 1 / span 8;
     grid-row: 1;
     padding-top: 20%;
     z-index: 6;
-}
+} */
 
 .right .bottom {
     grid-column: 4 / span -1;
