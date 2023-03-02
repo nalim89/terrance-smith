@@ -43,9 +43,9 @@ const Footer = () => {
             </div>  
 
             <div className='right'>
-                <h4> About Me </h4>
+                <h4> Connect: </h4>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil voluptates rem sit vero dolorum, molestiae veniam vel facilis asperiores omnis deleniti alias, nemo quos, blanditiis illum voluptatem fugiat voluptatibus nam.
+                    Like what you see here? Feel free to connect with me on other platforms. Just click the icons below for more!
                 </p>
                 <div className='social'>
                     <Link to='https://github.com/nalim89'>
